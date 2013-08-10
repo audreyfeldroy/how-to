@@ -1,0 +1,8 @@
+# Mac cruft
+.DS_Store
+
+# TextMate
+.tm_properties
+
+# Don't commit drafts
+drafts/
