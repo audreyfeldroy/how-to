@@ -49,7 +49,7 @@ To print a fancier HTML report:
 .. code-block:: bash
 
     coverage html
-    open html_cov/index.html
+    open htmlcov/index.html
 
 Set Up Coveralls
 ----------------
